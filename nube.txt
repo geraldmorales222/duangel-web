@@ -1,0 +1,3 @@
+git add .
+git commit -m "Ajuste: corrección de rutas y seguridad"
+git push origin main
